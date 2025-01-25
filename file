@@ -15,4 +15,50 @@ drwxr-xr-x@ 9 cs  staff   288B Jan 24 20:53 .git
 ➜  myFirstNovel git:(main) ✗ la
 total 0
 drwxr-xr-x@ 9 cs  staff   288B Jan 24 20:53 .git
--rw-r--r--@ 1 cs  staff     0B Jan 24 20:52 file
+-rw-r--r--@ 1 cs  staff     0B Jan 24 20:52 
+
+- how to delete a git repo while saving a folder ?
+    
+    ![Screenshot 2025-01-24 at 8.47.47 PM.png](attachment:3c9f91fe-c9a2-4585-99f4-de0d03281006:Screenshot_2025-01-24_at_8.47.47_PM.png)
+    
+- how to add changes to staging area ?
+    
+    
+    ![Screenshot 2025-01-24 at 8.56.02 PM.png](attachment:689b0a4e-5acc-47bf-b193-267df011f565:Screenshot_2025-01-24_at_8.56.02_PM.png)
+    
+    ![Screenshot 2025-01-24 at 8.58.07 PM.png](attachment:4e99f02a-28c8-4fdf-a244-45816f38d87d:Screenshot_2025-01-24_at_8.58.07_PM.png)
+    
+    ![Screenshot 2025-01-24 at 8.58.58 PM.png](attachment:58cb71d3-8933-4c5f-92aa-84c185f9f5e2:Screenshot_2025-01-24_at_8.58.58_PM.png)
+    
+    ![Screenshot 2025-01-24 at 8.56.26 PM.png](attachment:afc804e5-b21b-4b7d-953f-65839747d7bc:Screenshot_2025-01-24_at_8.56.26_PM.png)
+    
+    ![Screenshot 2025-01-24 at 8.56.51 PM.png](attachment:4c59300e-0c77-4188-8bba-af0a15c28cab:Screenshot_2025-01-24_at_8.56.51_PM.png)
+    
+    ![Screenshot 2025-01-24 at 8.56.59 PM.png](attachment:c91aa0c3-335a-4d81-866c-cb7ad4a096f1:Screenshot_2025-01-24_at_8.56.59_PM.png)
+    
+- how to unstage file(s) from staging staging area ? (CONCEPT)
+    
+    just run `git status` and it will show 
+    
+    `git rm --cached file`
+    
+- how to verify what changes are staged and not staged ?
+    
+    ![Screenshot 2025-01-24 at 8.59.55 PM.png](attachment:ad1735f3-b504-4b1b-a20b-f02d8bb89ebf:Screenshot_2025-01-24_at_8.59.55_PM.png)
+    
+- how to **commit changes from the staging area ?**
+    
+    
+    ![Screenshot 2025-01-24 at 9.01.23 PM.png](attachment:c45b626c-41cc-4cfb-bd77-f06389b7293d:Screenshot_2025-01-24_at_9.01.23_PM.png)
+    
+    ![Screenshot 2025-01-24 at 9.01.40 PM.png](attachment:a3290f0e-8cfe-4a36-b828-90503bd00daa:Screenshot_2025-01-24_at_9.01.40_PM.png)
+    
+    ![Screenshot 2025-01-24 at 9.01.55 PM.png](attachment:c2aae3af-3b5d-4f93-b4d5-4fe5610227a2:Screenshot_2025-01-24_at_9.01.55_PM.png)
+    
+- what command make changes to `.git` folder and updates it ?
+    
+    `git commit` 
+    
+- how to retrieve the logs of commits for given repo ?
+    
+    `git log`
