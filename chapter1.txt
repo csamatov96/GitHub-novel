@@ -1,5 +1,8 @@
-Chapter1
--Jordan
+total 0
+drwxr-xr-x@ 4 cs  staff   128B Jan 24 20:52 .
+drwxr-xr-x@ 3 cs  staff    96B Jan 24 20:46 ..
+drwxr-xr-x@ 9 cs  staff   288B Jan 24 20:53 .git
+-rw-r--r--@ 1 cs  staff     0B Jan 24 20:52 file
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
